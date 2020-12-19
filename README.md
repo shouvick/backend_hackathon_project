@@ -1,6 +1,8 @@
 # Welcome to Booking System Api
 
 Booking System Api Documentation : http://localhost:8000/api/documentation
+Name: MD.Shohag Monzur
+Email: shohagmonzur313@gmail.com
 
 # Requirements
 
